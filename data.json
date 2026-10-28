@@ -1,0 +1,106 @@
+{
+    "currencies": [
+        {
+            "english": "United States Dollar",
+            "vietnamese": "Đô la Mỹ",
+            "japanese": "アメリカドル",
+            "iso": "USD"
+        },
+        {
+            "english": "Euro",
+            "vietnamese": "Euro",
+            "japanese": "ユーロ",
+            "iso": "EUR"
+        },
+        {
+            "english": "Japanese Yen",
+            "vietnamese": "Yên Nhật",
+            "japanese": "日本円",
+            "iso": "JPY"
+        },
+        {
+            "english": "British Pound",
+            "vietnamese": "Bảng Anh",
+            "japanese": "イギリスポンド",
+            "iso": "GBP"
+        },
+        {
+            "english": "Australian Dollar",
+            "vietnamese": "Đô la Úc",
+            "japanese": "オーストラリアドル",
+            "iso": "AUD"
+        },
+        {
+            "english": "Canadian Dollar",
+            "vietnamese": "Đô la Canada",
+            "japanese": "カナダドル",
+            "iso": "CAD"
+        },
+        {
+            "english": "Swiss Franc",
+            "vietnamese": "Franc Thụy Sĩ",
+            "japanese": "スイスフラン",
+            "iso": "CHF"
+        },
+        {
+            "english": "Chinese Yuan",
+            "vietnamese": "Nhân dân tệ",
+            "japanese": "人民元",
+            "iso": "CNY"
+        },
+        {
+            "english": "Swedish Krona",
+            "vietnamese": "Krona Thụy Điển",
+            "japanese": "スウェーデンクローナ",
+            "iso": "SEK"
+        },
+        {
+            "english": "New Zealand Dollar",
+            "vietnamese": "Đô la New Zealand",
+            "japanese": "ニュージーランドドル",
+            "iso": "NZD"
+        }
+    ],
+    "countries": [
+        {
+            "name": "United States",
+            "iso": "US"
+        },
+        {
+            "name": "Vietnam",
+            "iso": "VN"
+        },
+        {
+            "name": "Japan",
+            "iso": "JP"
+        },
+        {
+            "name": "United Kingdom",
+            "iso": "GB"
+        },
+        {
+            "name": "Australia",
+            "iso": "AU"
+        },
+        {
+            "name": "Canada",
+            "iso": "CA"
+        },
+        {
+            "name": "Switzerland",
+            "iso": "CH"
+        },
+        {
+            "name": "China",
+            "iso": "CN"
+        },
+        {
+            "name": "Sweden",
+            "iso": "SE"
+        },
+        {
+            "name": "New Zealand",
+            "iso": "NZ"
+        }
+    ]
+}
